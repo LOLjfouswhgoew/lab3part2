@@ -15,3 +15,5 @@
 | Discord  | Discord inc. |147| application software|
 |  Whatsapp | Meta Platforms |22.20.75 |application software|
 |  Octopus | Octopus Cards Ltd |8.23.0 |application software|
+
+p
